@@ -1,0 +1,14 @@
+# Archivos de sistema y temporales
+nul
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+
+# Carpetas de desarrollo
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.vs/

@@ -7,9 +7,9 @@ Aquí encontrarás manuales y guías rápidas para cada uno de los módulos del 
 
 ## 📂 Módulos disponibles
 
-### 💼 Verifactu
-Documentación relacionada con la normativa Verifactu y la emisión de facturas verificables.  
-➡️ [Ir al manual Verifactu](verifactu/introduccion.md)
+### 💼 Gestión Comercial
+Documentación relacionada con la gestión comercial.  
+➡️ [Ir al manual de la gestión](gestion/indice.md)
 
 ### 🧾 TPV (Terminal Punto de Venta)
 Configuración y uso del módulo de TPV.  
