@@ -20,12 +20,13 @@ Este tipo de factura puede utilizarse para:
 2.  **Selecciona la factura** que deseas rectificar.
 3.  Haz clic en el botón **“Duplica o Rect.”**
 
-
+![Factura Rectificativa](../imagenes/Facturas_Rectificativas1.png)
 
 En la siguiente pantalla, selecciona la opción:
 
 > **“Generar una factura rectificativa a partir del documento seleccionado”.**
 
+![Factura Rectificativa](../imagenes/Facturas_Rectificativas _Opciones_Rectificar.png)
 ---
 
 ### ✅ Al aceptar, el sistema:
