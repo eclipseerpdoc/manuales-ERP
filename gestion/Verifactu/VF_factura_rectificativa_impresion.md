@@ -10,6 +10,6 @@ Para imprimir una **factura rectificativa**, sigue estos pasos:
 
 La factura se mostrará con el formato correspondiente de **factura rectificativa**, conforme a la normativa de facturación vigente.
 
-![Impresión de factura rectificativa](ruta/impresion_factura_rectificativa.png)
+![Impresión de factura rectificativa](../imagenes/impresion_factura_rectificativa.png)
 
 De este modo, se mantiene un historial completo y trazable del proceso de corrección, conforme a la normativa **Veri*Factu**.

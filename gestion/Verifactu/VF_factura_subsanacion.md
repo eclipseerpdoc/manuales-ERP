@@ -11,11 +11,11 @@ En estos casos, la factura será **rechazada** y deberá ser **subsanada** por e
 
 **eclipseERP** muestra automáticamente un aviso en la **pantalla de inicio**, mediante una **franja roja** que indica el número total de facturas que requieren revisión.  
 
-![Aviso de facturas con error](ruta/aviso_facturas_error.png)
+![Aviso de facturas con error](../imagenes/aviso_facturas_error.png)
 
 Al hacer clic sobre dicha franja, se abrirá la ventana de **Facturas**, ya filtrada para mostrar únicamente aquellas con **errores no subsanados**.
 
-![Listado de facturas con errores](ruta/listado_facturas_error.png)
+![Listado de facturas con errores](../imagenes/listado_facturas_error.png)
 
 ---
 
@@ -23,7 +23,7 @@ Al hacer clic sobre dicha franja, se abrirá la ventana de **Facturas**, ya filt
 
 En cada factura rechazada, el sistema registra el **código de error** y su **descripción**, tal como han sido devueltos por la Agencia Tributaria.  
 
-![Detalle del error en factura](ruta/detalle_error_factura.png)
+![Detalle del error en factura](../imagenes/detalle_error_factura.png)
 
 Al seleccionar una factura en la lista, estos datos se muestran en la parte inferior de la ventana, permitiendo identificar fácilmente el motivo del rechazo.
 
@@ -39,7 +39,7 @@ La **única forma válida de corrección** es mediante la emisión de una **fact
 2. Enviar el nuevo registro a la **Agencia Tributaria**.  
 3. Una vez subsanado el error, pulsar el botón **“Subsanar”** en *eclipseERP* para marcar la factura original como corregida.
 
-![Botón Subsanar](ruta/boton_subsanar.png)
+![Botón Subsanar](../imagenes/boton_subsanar.png)
 
 ---
 
@@ -50,6 +50,6 @@ Desde esta misma ventana podrás consultar también las **facturas ya subsanadas
 - **Usuario** que realizó la subsanación.  
 - **Fecha** en la que se marcó como corregida.  
 
-![Historial de subsanaciones](ruta/historial_subsanaciones.png)
+![Historial de subsanaciones](../imagenes/historial_subsanaciones.png)
 
 De este modo, se mantiene un historial completo y trazable del proceso de corrección, conforme a la normativa **Veri*Factu**.

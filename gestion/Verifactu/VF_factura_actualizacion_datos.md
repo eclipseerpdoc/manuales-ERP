@@ -24,7 +24,7 @@ Sin embargo, sí es posible modificar determinados **campos no relevantes fiscal
 3. Pulsa sobre el botón **“Ver”** en la columna de opciones disponibles.  
 4. Se mostrará la factura con todos los **datos fiscalmente relevantes bloqueados**, y sólo se habilitarán los **campos editables permitidos**.
 
-![Botón ver](ruta/boton_ver.png)
+![Botón ver](../imagenes/boton_ver.png)
 
 ---
 
@@ -57,7 +57,7 @@ Para confirmar y guardar las modificaciones realizadas, pulsa el botón:
 
 > **🟢 “Fra emitida: Actualizar sólo cabecera”**
 
-![Botón Actualizar cabecera](ruta/boton_actualizar_cabecera.png)
+![Botón Actualizar cabecera](../imagenes/boton_actualizar_cabecera.png)
 
 ---
 
