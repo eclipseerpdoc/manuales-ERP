@@ -2,6 +2,9 @@
 
 En este apartado diversos tips que te ayudarán en la transición hacia verifactu
 
+### 💡 Nuestro Compromiso: Solo Software VERIFACTU (Verificable en Tiempo Real)
+➡️ [Ir a Nuestro Compromiso: Solo Software VERIFACTU](VF_compromiso_vefifactu.md)
+
 ---
 
 ## 📂 Tips y Trucos Veri*Factu
